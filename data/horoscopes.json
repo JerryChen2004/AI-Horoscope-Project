@@ -1,0 +1,88 @@
+{
+  "signs": [
+    {
+      "sign": "Aries",
+      "dates": "March 21 - April 19",
+      "element": "Fire",
+      "planet": "Mars",
+      "personality": "Bold, energetic, courageous, and natural leaders. They love taking initiative and hate waiting."
+    },
+    {
+      "sign": "Taurus",
+      "dates": "April 20 - May 20",
+      "element": "Earth",
+      "planet": "Venus",
+      "personality": "Values stability, luxury, and comfort. Patient, reliable, and extremely stubborn."
+    },
+    {
+      "sign": "Gemini",
+      "dates": "May 21 - June 20",
+      "element": "Air",
+      "planet": "Mercury",
+      "personality": "Curious, witty, adaptable, and excellent communicators. Can be restless and inconsistent."
+    },
+    {
+      "sign": "Cancer",
+      "dates": "June 21 - July 22",
+      "element": "Water",
+      "planet": "Moon",
+      "personality": "Deeply emotional, protective, intuitive, and family-oriented. Can be moody and sensitive."
+    },
+    {
+      "sign": "Leo",
+      "dates": "July 23 - August 22",
+      "element": "Fire",
+      "planet": "Sun",
+      "personality": "Confident, dramatic, generous, and love being in the spotlight. Natural charisma."
+    },
+    {
+      "sign": "Virgo",
+      "dates": "August 23 - September 22",
+      "element": "Earth",
+      "planet": "Mercury",
+      "personality": "Analytical, practical, perfectionists, and service-oriented. Great attention to detail."
+    },
+    {
+      "sign": "Libra",
+      "dates": "September 23 - October 22",
+      "element": "Air",
+      "planet": "Venus",
+      "personality": "Seeks balance, harmony, and beauty. Diplomatic, social, and hates conflict."
+    },
+    {
+      "sign": "Scorpio",
+      "dates": "October 23 - November 21",
+      "element": "Water",
+      "planet": "Pluto/Mars",
+      "personality": "Intense, passionate, secretive, and transformative. Incredible willpower."
+    },
+    {
+      "sign": "Sagittarius",
+      "dates": "November 22 - December 21",
+      "element": "Fire",
+      "planet": "Jupiter",
+      "personality": "Adventurous, optimistic, philosophical, and love freedom and travel."
+    },
+    {
+      "sign": "Capricorn",
+      "dates": "December 22 - January 19",
+      "element": "Earth",
+      "planet": "Saturn",
+      "personality": "Ambitious, disciplined, responsible, and excellent at long-term planning."
+    },
+    {
+      "sign": "Aquarius",
+      "dates": "January 20 - February 18",
+      "element": "Air",
+      "planet": "Uranus",
+      "personality": "Innovative, independent, humanitarian, and think outside the box."
+    },
+    {
+      "sign": "Pisces",
+      "dates": "February 19 - March 20",
+      "element": "Water",
+      "planet": "Neptune",
+      "personality": "Compassionate, artistic, intuitive, and deeply empathetic. Can be escapist."
+    }
+  ]
+}
