@@ -1,1 +1,3 @@
-AI Horoscope Project
+# AI Horoscope Project
+AI ChatBot Project
+<br>
